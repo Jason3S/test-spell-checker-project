@@ -1,0 +1,12 @@
+{
+    "cSpell.language": "en",
+    "cSpell.dictionaryDefinitions": [
+        {
+            "name": "myWords",
+            "path": "./myWords.txt",
+            "addWords": true
+        }
+    ],
+    "cSpell.dictionaries": ["myWords"],
+    "cSpell.words": ["Pseudoterminal"]
+}
